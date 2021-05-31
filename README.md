@@ -1,5 +1,6 @@
 # GithubEmailFinder
 Search for potential emails from your target in Github's public events.
+The tool uses the GitHub API without authentication.
 
 ## Prerequisite
 
